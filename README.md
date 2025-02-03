@@ -50,11 +50,11 @@ https://github.com/aynorway/ay-chrome-theme
 ![](src/0031.png) 
 <br>
 
-### AY chrome theme pink peace - 0033 &emsp; &emsp; [ Chrome Store link](#) 
+### AY chrome theme pink peace - 0033 &emsp; &emsp; [ Chrome Store link](https://chromewebstore.google.com/detail/ay-chrome-theme-pink-peac/hjlcmkgimhgjgecafdkegbcdadcapcch?authuser=0&hl=en) 
 ![](src/0033.png) 
 <br>
 
-### AY chrome theme orange festival - 0051 &emsp; &emsp; [ Chrome Store link](#) 
+### AY chrome theme orange festival - 0051 &emsp; &emsp; [ Chrome Store link](https://chromewebstore.google.com/detail/ay-chrome-theme-orange-fe/aaphjfnmooacdfcboaebipgbkahhbiil?authuser=0&hl=en) 
 ![](src/0051.png) 
 <br>
 
